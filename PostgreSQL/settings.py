@@ -82,8 +82,8 @@ DATABASES = {
     'default': {
         'ENGINE': 'django.db.backends.postgresql', #Replace with required DB software
         'NAME': 'syeraa007', # Replace with DB name
-        'USER':'postgres', # Replace with MySql username
-        'PASSWORD':'Narasimha@143SS',  #Replace with MySql user-password
+        'USER':'postgres', # Replace with PostgreSql username
+        'PASSWORD':'Narasimha@143SS',  #Replace with PostgreSql user-password
         'HOST':'localhost',
         'PORT': 5432,
     }
